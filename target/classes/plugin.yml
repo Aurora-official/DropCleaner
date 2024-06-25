@@ -1,0 +1,8 @@
+name: DropCleaner
+version: '1.0-SNAPSHOT'
+main: io.aurora.DropCleaner
+api-version: '1.16'
+
+commands:
+  dcer:
+    description: enable the plugin
